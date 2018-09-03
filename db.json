@@ -1,0 +1,7 @@
+{
+  "transactions": [
+    { "id": 1, "name": "Billa", "amount": 29.88, "date": 1536000356, "type": 1, "category": 1, "recurring": 0, "recurring_type": 0, "image": ""},
+    { "id": 2, "name": "Hofer", "amount": 19.28, "date": 1536000356, "type": 1, "category": 1, "recurring": 0, "recurring_type": 0, "image": ""},
+    { "id": 3, "name": "Interspar", "amount": 31.88, "date": 1536000356, "type": 1, "category": 1, "recurring": 0, "recurring_type": 0, "image": ""}
+  ]
+}
