@@ -42,6 +42,28 @@
 			"recurring": 0,
 			"recurring_type": 0,
 			"image": ""
+		},
+		{
+			"id": 5,
+			"name": "Eni",
+			"amount": 25.00,
+			"date": 1536088262000,
+			"type": 1,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
+		},
+		{
+			"id": 6,
+			"name": "Eni",
+			"amount": 28.00,
+			"date": 1536088262000,
+			"type": 1,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
 		}
 	],
 	"categories": [{
