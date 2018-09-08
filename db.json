@@ -75,6 +75,17 @@
 			"recurring": 0,
 			"recurring_type": 0,
 			"image": ""
+		},
+		{
+			"id": 8,
+			"name": "Gehalt",
+			"amount": 2000.00,
+			"date": 1504553827000,
+			"type": 0,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
 		}
 	],
 	"categories": [{
