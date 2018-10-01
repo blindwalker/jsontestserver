@@ -97,6 +97,50 @@
 			"recurring": 0,
 			"recurring_type": 0,
 			"image": ""
+		},
+		{
+			"id": 10,
+			"name": "Gehalt0",
+			"amount": 2000.00,
+			"date": 1536688691000,
+			"type": 0,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
+		},
+		{
+			"id": 11,
+			"name": "Gehalt1",
+			"amount": 2000.00,
+			"date": 1536688691000,
+			"type": 0,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
+		},
+		{
+			"id": 12,
+			"name": "Gehalt2",
+			"amount": 2000.00,
+			"date": 1536688691000,
+			"type": 0,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
+		},
+		{
+			"id": 13,
+			"name": "Gehalt3",
+			"amount": 2000.00,
+			"date": 1536688691000,
+			"type": 0,
+			"category": 2,
+			"recurring": 0,
+			"recurring_type": 0,
+			"image": ""
 		}
 	],
 	"categories": [{
